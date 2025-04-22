@@ -3,7 +3,9 @@ My GitHub profile README
 # Hi there 👋, I'm Kasun Sanjeewa
 
 🎓 I'm a  2nd-year Software Engineering Student in SLIIT  
+
 💼 Currently working on: Aisle Navigation System for supermarket with react.js 
+
 🌱 Learning: Python, Flutter, React, Java   
 
 ## 🛠️ Tech Stack
