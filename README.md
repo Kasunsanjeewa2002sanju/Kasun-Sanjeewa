@@ -14,6 +14,6 @@ My GitHub profile README
 - Frameworks: React, Node.js
 
 ## 📫 Connect with me
-- [LinkedIn](www.linkedin.com/in/kasun-sanjeewa-0b4152277)
+- [Kasun Sanjeewa](https://www.linkedin.com/in/kasun-sanjeewa-0b4152277)
 - [Email](kasunsanjeewa2002@gmail.com)
 
